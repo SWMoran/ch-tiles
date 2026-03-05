@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CarpHills_DRAPE_Img_WGS.tif</name>
+    <description></description>
+    <Style>
+      <ListStyle id="hideChildren">
+        <listItemType>checkHideChildren</listItemType>
+      </ListStyle>
+    </Style>
+    <NetworkLink>
+      <name>11/591/770.png</name>
+      <Region>
+        <LatLonAltBox>
+          <north>45.52734375000000</north>
+          <south>45.35156250000000</south>
+          <east>-75.93750000000000</east>
+          <west>-76.11328125000000</west>
+        </LatLonAltBox>
+        <Lod>
+          <minLodPixels>128</minLodPixels>
+          <maxLodPixels>-1</maxLodPixels>
+        </Lod>
+      </Region>
+      <Link>
+        <href>https://swmoran.github.io/ch-tiles/tiles/DRAPE_Tiles/11/591/770.kml</href>
+        <viewRefreshMode>onRegion</viewRefreshMode>
+        <viewFormat/>
+      </Link>
+    </NetworkLink>
+              </Document>
+</kml>
+    
